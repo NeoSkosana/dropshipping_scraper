@@ -1,11 +1,13 @@
-version: 4.14.0
-installed_at: '2025-06-25T12:34:00.304Z'
+version: 4.16.1
+installed_at: '2025-06-26T13:10:44.282Z'
 install_type: full
 agent: null
 ide_setup: null
-ides_setup:
-  - roo
+ides_setup: []
 files:
+  - path: .bmad-core/install-manifest.yml
+    hash: 8c3e34d6ac3e08b6
+    modified: false
   - path: .bmad-core/core-config.yml
     hash: 8ccd25183820a4a9
     modified: false
